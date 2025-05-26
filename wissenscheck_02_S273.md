@@ -78,14 +78,11 @@
 # 6.) Nennen Sie die wichtigsten Möglichkeiten der Vertragsabsicherung.
 
 ### Möglichkeiten der Vertragsabsicherung
-1. **Vertragsstrafe.**
-2. **Bürgschaft.**
-3. **Garantie.**
-4. **Sicherungsübereignung.**
-5. **Pfandrecht.**
-6. **Hypothek/Grundschuld.**
-7. **Vorauszahlung/Kaution.**
-8. **Eigentumsvorbehalt.**
+1. **Vertragsstrafe**
+2. **Bürgschaft**
+3. **Bankgarantie**
+4. **Pfandrecht**
+5. **Eigentumsvorbehalt**
 
 ---
 
@@ -93,7 +90,7 @@
 
 ### Gewährleistungsfristen
 - **a) Neue bewegliche Sachen:** 2 Jahre ab Übergabe.
-- **b) Unbewegliche Sachen:** 5 Jahre ab Übergabe.
+- **b) Unbewegliche Sachen:** 3 Jahre ab Übergabe.
 
 ---
 
