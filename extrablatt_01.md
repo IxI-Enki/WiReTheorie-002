@@ -1,7 +1,8 @@
-## Abgrenzung zwischen Dienst- und Werkvertrag
+## <p align="center"> Abgrenzung zwischen Dienst- und Werkvertrag </p>
 
-### Dienstvertrag / Arbeitsvertrag
-- **Definition:** <br> Dauerschuldverhältnis, bei dem der Dienstnehmer dem Dienstgeber seine Arbeitskraft gegen Entgelt zur Verfügung stellt 
+### Dienstvertrag / Arbeitsvertrag 
+  > Dauerschuldverhältnis, bei dem der Dienstnehmer dem Dienstgeber seine Arbeitskraft gegen Entgelt zur Verfügung stellt
+  
 - **Merkmale:**
   - Schuldet redliches Bemühen, keinen besonderen Erfolg 
   - Typisch: Bezahlung in Zeiteinheiten (z B  Monatslohn) 
@@ -12,8 +13,11 @@
   - Darf sich nicht vertreten lassen 
   - Muss sich an vorgegebene Arbeitszeiten halten 
 
-### Werkvertrag
-- **Definition:** <br> Zielschuldverhältnis, bei dem der Werkunternehmer gegen Entgelt ein Werk für den Werkbesteller nach dessen Auftrag herstellt 
+--- 
+
+### Werkvertrag 
+  > Zielschuldverhältnis, bei dem der Werkunternehmer gegen Entgelt ein Werk für den Werkbesteller nach dessen Auftrag herstellt
+  
 - **Merkmale:**
   - Schuldet Erfolg, sonst kein Entgelt 
   - Typisch: Bezahlung nach Pauschale/Angebot für das fertiggestellte Werk 
@@ -26,7 +30,7 @@
 
 ---
 
-## Rechtsfolgen
+## <p align="center"> Rechtsfolgen </p>
 
 | Dienstverhältnis                                                                    | Werkvertrag                                                                |
 |:------------------------------------------------------------------------------------|:---------------------------------------------------------------------------|
