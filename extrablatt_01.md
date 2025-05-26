@@ -37,11 +37,11 @@
 |||
 | Arbeitsrecht und Arbeitnehmerschutzrecht anwendbar                                  | Gewerberecht zu beachten, <br> wenn regelmäßige selbständige Leistungen    |
 |||
-| Kollektivvertragszugehörigkeit (Mindestentgelt, Sonderzahlungen)                    | Kein Urlaubsanspruch                                                       |
+| Urlaubsanspruch                                                                     | Kein Urlaubsanspruch                                                       |
 |||
-| Urlaubsanspruch                                                                     | Kein Entgeltfortzahlungsanspruch im Krankheitsfall                         |
+| Kollektivvertragszugehörigkeit (Mindestentgelt, Sonderzahlungen)                    | Volles Unternehmerrisiko inklusive Insolvenzrisiko                         |
 |||
-| Entgeltfortzahlungsanspruch im Krankheitsfall                                       | Selbständige Steuererklärung erforderlich                                  |
+| Entgeltfortzahlungsanspruch im Krankheitsfall                                       | Kein Entgeltfortzahlungsanspruch im Krankheitsfall                         |
 |||
-| Lohnverrechnung und Sozialversicherungsbeiträge/Lohnsteuern liegen beim Arbeitgeber | Volles Unternehmerrisiko inklusive Insolvenzrisiko                         |
+| Lohnverrechnung und Sozialversicherungsbeiträge/Lohnsteuern liegen beim Arbeitgeber | Selbständige Steuererklärung erforderlich                                  |
 |||
